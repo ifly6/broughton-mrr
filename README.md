@@ -9,3 +9,7 @@ The processing code is publicly available.
 After processing, the images were then bunbled into a PDF (suffixed `unpaper`) and were fed into `ocrmypdf` (relying on `tesseract`). The OCR'd PDF (suffixed `ocr`) was then edited in Adobe Acrobat XI for renumbering by actual pages, removal of missed duplicate pages, image optimisation, and metadata inclusion. Since these steps were done in Acrobat, it is not possible to entirely reproduce the release PDFs entirely progrmamatically.
 
 See `releases` for the final PDF versions.
+
+# Licencing
+
+The GPL v2 licence in this repository applies *to the code*. The input images for MRR 1 created by Google rehosted here are already in the public domain; I release the input images for MRR 2 also into the public domain. All PDFs derived from those images, as well as those released on the releases tab, I also release into the public domain.
