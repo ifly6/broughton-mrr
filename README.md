@@ -12,7 +12,9 @@ See `releases` for the final PDF versions.
 
 ## Licencing
 
-The GPL v2 licence in this repository applies *to the code*. The input images for MRR 1 created by Google rehosted here are already in the public domain; I release the input images for MRR 2 also into the public domain. All PDFs derived from those images, as well as those released on the releases tab, I also release into the public domain.
+The GPL v2 licence in this repository applies *to the code*.
+
+The input images for MRR 1 created by Google rehosted here are already in the public domain; I release the input images for MRR 2 also into the public domain. All PDFs derived from those images, as well as those released on the releases tab, I also release into the public domain.
 
 ## Thanks
 
