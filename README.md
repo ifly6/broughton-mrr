@@ -19,3 +19,5 @@ The input images for MRR 1 created by Google rehosted here are already in the pu
 ## Thanks
 
 My thanks to those at Google who digitised MRR vol 1, those at CZUR who created such an easy-to-use scanner, the `unpaper` team for producing software which can fix up all the artefacts and errors that are rather unavoidable with even easy-to-use scanners, the `ocrmypdf` team for creating such an easy-to-use OCR endpoint, and those at `tesseract` for creating the OCR software itself that can read English and Greek.
+
+Separately, I also thank the team at the [Digital Prosopography of the Roman Republic](https://romanrepublic.ac.uk) who have already digitised MRR and put it into a searchable web database. Someone needed to do it and they did a brilliant job of it. The only quibble I have with their work is that they do not have pinpoint citations to the page numbers for each statement.
