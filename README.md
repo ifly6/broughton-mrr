@@ -10,6 +10,10 @@ After processing, the images were then bunbled into a PDF (suffixed `unpaper`) a
 
 See `releases` for the final PDF versions.
 
-# Licencing
+## Licencing
 
 The GPL v2 licence in this repository applies *to the code*. The input images for MRR 1 created by Google rehosted here are already in the public domain; I release the input images for MRR 2 also into the public domain. All PDFs derived from those images, as well as those released on the releases tab, I also release into the public domain.
+
+## Thanks
+
+My thanks to those at Google who digitised MRR vol 1, those at CZUR who created such an easy-to-use scanner, the `unpaper` team for producing software which can fix up all the artefacts and errors that are rather unavoidable with even easy-to-use scanners, the `ocrmypdf` team for creating such an easy-to-use OCR endpoint, and those at `tesseract` for creating the OCR software itself that can read English and Greek.
