@@ -6,6 +6,6 @@ This project includes the images of scans of MRR vols 1–2. The images for MRR 
 
 The processing code is publicly available.
 
-After processing, the images were then bunbled into a PDF (suffixed `unpaper`) and were fed into `ocrmypdf` (relying on `tesseract`). The OCR'd PDF (suffixed `ocr`) was then edited in Adobe Acrobat XI for renumbering by actual pages, image optimisation, and metadata inclusion.
+After processing, the images were then bunbled into a PDF (suffixed `unpaper`) and were fed into `ocrmypdf` (relying on `tesseract`). The OCR'd PDF (suffixed `ocr`) was then edited in Adobe Acrobat XI for renumbering by actual pages, removal of missed duplicate pages, image optimisation, and metadata inclusion. Since these steps were done in Acrobat, it is not possible to entirely reproduce the release PDFs entirely progrmamatically.
 
 See `releases` for the final PDF versions.
