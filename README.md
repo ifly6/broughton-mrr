@@ -16,7 +16,9 @@ The 1960 supplement, which is also added to the end of some editions of _MRR_ 2,
 
 > [In] the more than thirty years since the original publication and more than twenty years since the appearance of the Supplement of 1960 have seen the discovery of much new evidence and a vast accumulation of studies and reviews of considerably importance... The first question, whether to prepare a Second Supplement continuing the earlier one of 1960 or to incorporate the earlier one in the new one and thus create a single Supplement, was answered in favor of a single one, in the belief that it would make the work as a whole easier to consult. The decision finds some confirmation in the number of notes in the 1960 Supplement that were found to require additions or changes.
 
-The 1960 supplement should not be consulted due to its supersession by _MRR_ 3. I have chosen to do two things: first, because it is still in copyright, _MRR_ 3 cannot be given here to complete the set; second, because the 1960 supplement is not altogether reliable in Broughton's own considered opinion, I have opted also not to investigate its copyright status, scan it, and present it here. If you need reference it, go to a library.
+The 1960 supplement should not be consulted due to its supersession by _MRR_ 3. 
+
+I have chosen to do two things: first, because it is still in copyright, _MRR_ 3 cannot be given here to complete the set; second, because the 1960 supplement is not altogether reliable in Broughton's own considered opinion, I have opted also not to present it here. Regardless, the 1960 supplement can be found on [HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015009342562) and is in the public domain for failure to state copyright pursuant to then-in-force copyright law.
 
 ## Licencing
 
