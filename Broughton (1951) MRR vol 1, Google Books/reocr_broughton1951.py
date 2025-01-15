@@ -4,6 +4,7 @@ Created on Sun Nov 17 21:15:14 2024
 @author: ifly6
 """
 import copy
+import io
 import lzma
 import random
 import re
@@ -48,8 +49,10 @@ if __name__ == '__main__':
     REGEN = False
     PREFIX = 'broughton1951'
 
-    fic = f'{PREFIX}_raw.pdf'
-    doc = fitz.open(fic)
+    # must wrap like this to read compressed file properly
+    doc = fitz.open(
+        stream=io.BytesIO(lzma.open(f'{PREFIX}_raw.pdf.xz', 'rb').read()),
+        filetype='pdf')
 
     os.makedirs(f'{PREFIX}_raw', exist_ok=True)
     for i, page in enumerate(doc):
